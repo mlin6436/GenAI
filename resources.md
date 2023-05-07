@@ -18,6 +18,7 @@
 - OpenAI Python API - https://github.com/openai/openai-python/tree/main/openai/api_resources
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
+- LangChain - https://python.langchain.com/en/latest/index.html
 
 # Applications
 - GPT-4 And ChatGPT detector - https://www.zerogpt.com
