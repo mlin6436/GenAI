@@ -10,6 +10,7 @@
 - The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
 - Sparks of AGI by Sebastian Boubec - https://youtu.be/qbIk7-JPB2c
 - The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED - https://youtu.be/C_78DM8fG6E
+- GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk - https://www.youtube.com/live/vw-KWfKwvTQ
 
 # Courses
 - ChatGPT Prompt Engineering for Developers - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
