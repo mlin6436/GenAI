@@ -1,13 +1,13 @@
 
 # Prompts
 
-## Role
+## Roles
 
 **Simulate an expert**
 
 > Prompt: "As a Harvard Marketing graduate and skilled content creator, guide me in crafting social media content that resonates with AI enthusiasts. Emphasise uncommon and expert questions to ask"
 
-## Task
+## Tasks
 
 **Generate responses table format**
 
