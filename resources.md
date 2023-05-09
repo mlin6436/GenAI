@@ -7,8 +7,9 @@
 - Model Training - https://github.com/hpcaitech/ColossalAI
 
 # Talks
-- The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU?t=286
-- Sparks of AGI by Sebastian Boubec - https://www.youtube.com/watch?v=qbIk7-JPB2c
+- The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
+- Sparks of AGI by Sebastian Boubec - https://youtu.be/qbIk7-JPB2c
+- The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED - https://youtu.be/C_78DM8fG6E
 
 # Courses
 - ChatGPT Prompt Engineering for Developers - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
