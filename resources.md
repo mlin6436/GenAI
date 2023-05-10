@@ -20,10 +20,13 @@
 - OpenAI Cookbook - https://github.com/openai/openai-cookbook
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
-- Colossal AI - https://github.com/hpcaitech/ColossalAI
 - LangChain - https://python.langchain.com/en/latest/index.html
-- Hugging Face - https://huggingface.co/
 - Steamship - https://docs.steamship.com/
+
+# Models
+- Hugging Face - https://huggingface.co/
+- Lamini - https://lamini.ai/blog/introducing-lamini
+- Colossal AI - https://github.com/hpcaitech/ColossalAI
 
 # Applications
 - GPT-4 And ChatGPT detector - https://www.zerogpt.com
@@ -42,6 +45,7 @@
 - Copilot (Paid) - https://github.com/features/copilot
 - AutoGPT - https://autogpt.net	
 - AutoGPT in a browser - https://godmode.space
+- MiniGPT-4 - https://github.com/Vision-CAIR/MiniGPT-4
 
 # Plugins
 - Prompt Assistant (Chrome) - https://promptstorm.app
