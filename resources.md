@@ -17,6 +17,7 @@
 # Docs
 - OpenAI Doc - https://platform.openai.com/docs/introduction
 - OpenAI Python API - https://github.com/openai/openai-python/tree/main/openai/api_resources
+- OpenAI Cookbook - https://github.com/openai/openai-cookbook
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
 - Colossal AI - https://github.com/hpcaitech/ColossalAI
