@@ -22,6 +22,7 @@
 - Colossal AI - https://github.com/hpcaitech/ColossalAI
 - LangChain - https://python.langchain.com/en/latest/index.html
 - Hugging Face - https://huggingface.co/
+- Steamship - https://docs.steamship.com/
 
 # Applications
 - GPT-4 And ChatGPT detector - https://www.zerogpt.com
