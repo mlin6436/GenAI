@@ -4,7 +4,6 @@
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond - https://arxiv.org/abs/2304.13712
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - https://arxiv.org/abs/2201.11903
 - Chain-of-Thought pagers - https://github.com/Timothyxxx/Chain-of-ThoughtsPapers
-- Model Training - https://github.com/hpcaitech/ColossalAI
 
 # Talks
 - The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
@@ -20,7 +19,9 @@
 - OpenAI Python API - https://github.com/openai/openai-python/tree/main/openai/api_resources
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
+- Colossal AI - https://github.com/hpcaitech/ColossalAI
 - LangChain - https://python.langchain.com/en/latest/index.html
+- Hugging Face - https://huggingface.co/
 
 # Applications
 - GPT-4 And ChatGPT detector - https://www.zerogpt.com
