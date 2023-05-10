@@ -1,11 +1,14 @@
-
 # Prompts
+
+
 
 ## Roles
 
 **Simulate an expert**
 
 > Prompt: "As a Harvard Marketing graduate and skilled content creator, guide me in crafting social media content that resonates with AI enthusiasts. Emphasise uncommon and expert questions to ask"
+
+
 
 ## Tasks
 
@@ -49,6 +52,10 @@ Use case: Easily make an informative paragraph humorous and easier to read.
 
 Use case: Always get ChatGPT's opinion on your work first before sending it to an editor.
 
+**Get ChatGPT to write in your style**
+
+> Prompt: "Analyze the writing style from the text below and write a 200 word piece on [insert topic]"
+
 **Plan your day more effectively**
 
 > Prompt: "Help me create a prioritised to-do list for the day based on the following tasks: [List your tasks]."
@@ -64,6 +71,20 @@ Use case: Always get ChatGPT's opinion on your work first before sending it to a
 **Train ChatGPT to write its own prompts for you**
 
 > Prompt: "What's the best prompt for ChatGPT to learn my writing styles and respond to my emails?"
+
+**Train ChatGPT to generate prompts for you**
+
+> Prompt: "You are an AI designed to help [insert profession]. Generate a list of the 10 best prompts for yourself. The prompts should be about [insert topic]."
+
+**Ask ChatGPT to help you become better at using ChatGPT**
+
+> Prompt: "Create a beginner's guide to using ChatGPT. Topics should include prompts, priming, and personas. Include examples where necessary. The guide should be no longer than 500 words."
+
+**Learn any complex topic in only a few minutes**
+
+> Prompt: "Explain [insert topic] in simple and easy terms that any beginner can understand."
+
+
 
 ## Keywords
 
@@ -138,8 +159,8 @@ Once you've found the errors and flaws, ask ChatGPT to rewrite the answer:
 
 > Prompt: “Please rewrite the answer. Address the flaws and potential issues you've found and improve it further. Let’s work this out in a step by step way to be sure we have fixed all the errors.”
 
-
-
+  
+  
 ## Others
 
 **Change the temperature**
