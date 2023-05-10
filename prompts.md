@@ -129,6 +129,15 @@ Use case: Always get ChatGPT's opinion on your work first before sending it to a
 > [ANSWER] 
 > Let’s work this out in a step by step way to be sure we have the right answer:
 > “
+  
+Once you get the answer, you can always refine it further with this prompt:
+
+> Prompt: “You're an expert researcher tasked with investigating the answer provided. List the flaws and faulty logic of the answer. Let’s work this out in a step by step way to be sure we have all the errors.”
+
+Once you've found the errors and flaws, ask ChatGPT to rewrite the answer:
+
+> Prompt: “Please rewrite the answer. Address the flaws and potential issues you've found and improve it further. Let’s work this out in a step by step way to be sure we have fixed all the errors.”
+
 
 
 ## Others
