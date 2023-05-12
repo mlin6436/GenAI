@@ -4,6 +4,7 @@
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond - https://arxiv.org/abs/2304.13712
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - https://arxiv.org/abs/2201.11903
 - Chain-of-Thought pagers - https://github.com/Timothyxxx/Chain-of-ThoughtsPapers
+- PaLM 2 techinical report - https://ai.google/static/documents/palm2techreport.pdf
 
 # Talks
 - The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
@@ -20,6 +21,7 @@
 - OpenAI Cookbook - https://github.com/openai/openai-cookbook
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
+- Anthropic - https://console.anthropic.com/docs
 - LangChain - https://python.langchain.com/en/latest/index.html
 - Steamship - https://docs.steamship.com/
 
