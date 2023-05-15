@@ -5,6 +5,8 @@
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - https://arxiv.org/abs/2201.11903
 - Chain-of-Thought pagers - https://github.com/Timothyxxx/Chain-of-ThoughtsPapers
 - PaLM 2 techinical report - https://ai.google/static/documents/palm2techreport.pdf
+- Evaluating Embedding APIs for Information Retrieval - https://arxiv.org/abs/2305.06300
+- Large Language Models are Zero-Shot Reasoners - https://arxiv.org/abs/2205.11916
 
 # Talks
 - The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
@@ -36,6 +38,7 @@
 - Awesome ChatGPT prompts - https://github.com/f/awesome-chatgpt-prompts
 - Learn Prompting (Discord) - https://learnprompting.org/docs/intro
 - FlowGPT (Discord) - https://flowgpt.com
+- Private site assistant - https://www.privategpt.io/
 - Site assistant - https://www.yoya.ai
 - Site assistant - https://www.chatbase.co
 - Writing assistant (Paid) - https://www.hyperwriteai.com
@@ -44,6 +47,7 @@
 - Generate mindmap (Paid) - https://whimsical.com
 - Chat with PDF - https://www.chatpdf.com
 - Chat with Books (Paid) - https://www.bookai.chat
+- Chat with pagers - https://www.openread.academy/home
 - Amazon CodeWhisperer (Paid) - https://aws.amazon.com/codewhisperer/
 - Cursor - https://www.cursor.so/
 - Copilot (Paid) - https://github.com/features/copilot
