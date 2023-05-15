@@ -36,6 +36,8 @@
 - Awesome ChatGPT prompts - https://github.com/f/awesome-chatgpt-prompts
 - Learn Prompting (Discord) - https://learnprompting.org/docs/intro
 - FlowGPT (Discord) - https://flowgpt.com
+- Site assistant - https://www.yoya.ai
+- Site assistant - https://www.chatbase.co
 - Writing assistant (Paid) - https://www.hyperwriteai.com
 - Generate docs, decks & webpages (Paid) - https://gamma.app
 - Generate PPT (Paid) - https://beta.tome.app
@@ -45,9 +47,12 @@
 - Amazon CodeWhisperer (Paid) - https://aws.amazon.com/codewhisperer/
 - Cursor - https://www.cursor.so/
 - Copilot (Paid) - https://github.com/features/copilot
+- Explain Codebase - https://useadrenaline.com
 - AutoGPT - https://autogpt.net	
 - AutoGPT in a browser - https://godmode.space
 - MiniGPT-4 - https://github.com/Vision-CAIR/MiniGPT-4
+- Finance (Paid) - https://financegpt.uk
+- Travel planner - https://tripnotes.ai/
 
 # Plugins
 - Prompt Assistant (Chrome) - https://promptstorm.app
