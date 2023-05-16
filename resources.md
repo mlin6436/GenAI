@@ -21,20 +21,23 @@
 # Courses
 - ChatGPT Prompt Engineering for Developers - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
-# Docs
+# Tools
 - OpenAI Doc - https://platform.openai.com/docs/introduction
-- OpenAI Python API - https://github.com/openai/openai-python/tree/main/openai/api_resources
-- OpenAI Cookbook - https://github.com/openai/openai-cookbook
 - Azure OpenAI Service Doc - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/overview
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
 - Anthropic - https://console.anthropic.com/docs
-- LangChain - https://python.langchain.com/en/latest/index.html
-- Steamship - https://docs.steamship.com/
-
-# Models
 - Hugging Face - https://huggingface.co/
-- Lamini - https://lamini.ai/blog/introducing-lamini
-- Colossal AI - https://github.com/hpcaitech/ColossalAI
+- - Lamini - https://lamini.ai/blog/introducing-lamini
+- LangChain - https://python.langchain.com/en/latest/index.html
+- colossalai - https://colossalai.org/
+- Steamship - https://docs.steamship.com/
+- Jina.ai - https://jina.ai/
+
+# Projects
+- OpenAI Python API - https://github.com/openai/openai-python/tree/main/openai/api_resources
+- OpenAI Cookbook - https://github.com/openai/openai-cookbook
+- langchain - https://github.com/hwchase17/langchain
+- langchain-serve - https://github.com/jina-ai/langchain-serve
 - langchain-ChatGLM - https://github.com/imClumsyPanda/langchain-ChatGLM
 
 # Applications
