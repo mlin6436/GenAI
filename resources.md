@@ -35,6 +35,7 @@
 - Hugging Face - https://huggingface.co/
 - Lamini - https://lamini.ai/blog/introducing-lamini
 - Colossal AI - https://github.com/hpcaitech/ColossalAI
+- langchain-ChatGLM - https://github.com/imClumsyPanda/langchain-ChatGLM
 
 # Applications
 - GPT-4 And ChatGPT detector - https://www.zerogpt.com
