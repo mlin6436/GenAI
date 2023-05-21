@@ -27,7 +27,7 @@
 - Azure OpenAI Service models - https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/concepts/models
 - Anthropic - https://console.anthropic.com/docs
 - Hugging Face - https://huggingface.co/
-- - Lamini - https://lamini.ai/blog/introducing-lamini
+- Lamini - https://lamini.ai/blog/introducing-lamini
 - LangChain - https://python.langchain.com/en/latest/index.html
 - colossalai - https://colossalai.org/
 - Steamship - https://docs.steamship.com/
