@@ -1,0 +1,22 @@
+# .env
+.env
+
+# __pycache__
+__pycache__
+
+# macOS
+.DS_Store
+
+# build
+build
+dist
+pandasai.egg-info
+
+#venv
+/venv
+
+# command line
+/pandasai_cli.egg-info
+
+# pycharm
+.idea/
