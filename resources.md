@@ -8,6 +8,7 @@
 - Evaluating Embedding APIs for Information Retrieval - https://arxiv.org/abs/2305.06300
 - Large Language Models are Zero-Shot Reasoners - https://arxiv.org/abs/2205.11916
 - RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs - https://arxiv.org/abs/2305.08844
+- Attention Is All You Need - https://arxiv.org/abs/1706.03762
 
 # Talks
 - The A.I. Dilemma by Tristan Harris and Aza Raskin - https://youtu.be/bhYw-VlkXTU
