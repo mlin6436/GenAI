@@ -18,6 +18,7 @@
   - https://youtu.be/C_78DM8fG6E
 - GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk - https://www.youtube.com/live/vw-KWfKwvTQ
 - What is ChatGPT doing...and why does it work? - https://www.youtube.com/live/flXrLGPY3SU
+- A conversation with OpenAI CEO Sam Altman | Hosted by Elevate - https://youtu.be/uRIWgbvouEw
 
 # Courses
 - ChatGPT Prompt Engineering for Developers - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
