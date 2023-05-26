@@ -32,6 +32,8 @@
 - Lamini - https://lamini.ai/blog/introducing-lamini
 - LangChain - https://python.langchain.com/en/latest/index.html
 - colossalai - https://colossalai.org/
+
+# Platforms
 - Steamship - https://docs.steamship.com/
 - Jina.ai - https://jina.ai/
 
